@@ -55,3 +55,5 @@ to the error output
 - 10 - advanced pipe (85%)
 - 11 - advanced redirections (50%)
 - 12 - advanced manipulations (50%)
+
+<img width="575" alt="Capture d’écran 2023-03-24 à 12 50 39" src="https://user-images.githubusercontent.com/91894666/227513903-96f0af74-81ae-444a-89fc-9d3551682286.png">
