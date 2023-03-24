@@ -48,10 +48,10 @@ to the error output
 
 ## Coverage
 
-01 - mandatory minishell1 (64,7%)
-07 - separator (100%)
-08 - simple pipe (100%)
-09 - simple redirections (100%)
-10 - advanced pipe (85%)
-11 - advanced redirections (50%)
-12 - advanced manipulations (50%)
+- 01 - mandatory minishell1 (64,7%)
+- 07 - separator (100%)
+- 08 - simple pipe (100%)
+- 09 - simple redirections (100%)
+- 10 - advanced pipe (85%)
+- 11 - advanced redirections (50%)
+- 12 - advanced manipulations (50%)
